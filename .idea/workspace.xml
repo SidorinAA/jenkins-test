@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f2609264-0e25-4cb6-baf8-1f72432e7cee" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="e968c047-8144-4a38-81aa-a91fea53f44a" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$USER_HOME$/.m2/wrapper/dists/apache-maven-3.8.3-bin/5a6n1u8or3307vo2u2jgmkhm0t/apache-maven-3.8.3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="21tul3BAdjx48RTC8nSgnu7bzA4" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="flattenPackages" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Global Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/target" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/src/main/resources/static" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="TestappApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sidorin.testapp.TestappApplication" />
+      <module name="testapp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sidorin.testapp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TestappApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f2609264-0e25-4cb6-baf8-1f72432e7cee" name="Default Changelist" comment="" />
+      <created>1638772854413</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1638772854413</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="587" y="337" width="260" height="264" key="Github.ShareDialog" timestamp="1638774888765">
+      <screen x="0" y="23" width="1440" height="838" />
+    </state>
+    <state x="587" y="337" width="260" height="264" key="Github.ShareDialog/0.23.1440.838@0.23.1440.838" timestamp="1638774888765" />
+    <state width="1398" height="196" key="GridCell.Tab.0.bottom" timestamp="1638787391561">
+      <screen x="0" y="23" width="1440" height="834" />
+    </state>
+    <state width="1398" height="196" key="GridCell.Tab.0.bottom/0.23.1440.834@0.23.1440.834" timestamp="1638787391561" />
+    <state width="1398" height="196" key="GridCell.Tab.0.bottom/0.23.1440.838@0.23.1440.838" timestamp="1638781470616" />
+    <state width="1398" height="212" key="GridCell.Tab.0.bottom/0.23.1440.839@0.23.1440.839" timestamp="1638773801570" />
+    <state width="1398" height="196" key="GridCell.Tab.0.center" timestamp="1638787391559">
+      <screen x="0" y="23" width="1440" height="834" />
+    </state>
+    <state width="1398" height="196" key="GridCell.Tab.0.center/0.23.1440.834@0.23.1440.834" timestamp="1638787391559" />
+    <state width="1398" height="196" key="GridCell.Tab.0.center/0.23.1440.838@0.23.1440.838" timestamp="1638781470614" />
+    <state width="1398" height="212" key="GridCell.Tab.0.center/0.23.1440.839@0.23.1440.839" timestamp="1638773801569" />
+    <state width="1398" height="196" key="GridCell.Tab.0.left" timestamp="1638787391524">
+      <screen x="0" y="23" width="1440" height="834" />
+    </state>
+    <state width="1398" height="196" key="GridCell.Tab.0.left/0.23.1440.834@0.23.1440.834" timestamp="1638787391524" />
+    <state width="1398" height="196" key="GridCell.Tab.0.left/0.23.1440.838@0.23.1440.838" timestamp="1638781470612" />
+    <state width="1398" height="212" key="GridCell.Tab.0.left/0.23.1440.839@0.23.1440.839" timestamp="1638773801568" />
+    <state width="1398" height="196" key="GridCell.Tab.0.right" timestamp="1638787391560">
+      <screen x="0" y="23" width="1440" height="834" />
+    </state>
+    <state width="1398" height="196" key="GridCell.Tab.0.right/0.23.1440.834@0.23.1440.834" timestamp="1638787391560" />
+    <state width="1398" height="196" key="GridCell.Tab.0.right/0.23.1440.838@0.23.1440.838" timestamp="1638781470615" />
+    <state width="1398" height="212" key="GridCell.Tab.0.right/0.23.1440.839@0.23.1440.839" timestamp="1638773801569" />
+    <state x="205" y="23" key="SettingsEditor" timestamp="1638784754487">
+      <screen x="0" y="23" width="1440" height="839" />
+    </state>
+    <state x="205" y="23" key="SettingsEditor/0.23.1440.838@0.23.1440.838" timestamp="1638775165865" />
+    <state x="205" y="23" key="SettingsEditor/0.23.1440.839@0.23.1440.839" timestamp="1638784754487" />
+    <state x="317" y="173" key="Vcs.Push.Dialog.v2" timestamp="1638784648543">
+      <screen x="0" y="23" width="1440" height="839" />
+    </state>
+    <state x="317" y="173" key="Vcs.Push.Dialog.v2/0.23.1440.838@0.23.1440.838" timestamp="1638775992390" />
+    <state x="317" y="173" key="Vcs.Push.Dialog.v2/0.23.1440.839@0.23.1440.839" timestamp="1638784648543" />
+  </component>
+</project>
